@@ -1,6 +1,6 @@
 {
   "name": "@wantyapps/corona.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Another corona CLI tool.",
   "main": "corona.js",
   "preferGlobal": true,
