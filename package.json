@@ -1,0 +1,40 @@
+{
+  "name": "@wantyapps/corona.js",
+  "version": "0.0.1",
+  "description": "Another corona CLI tool.",
+  "main": "corona.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0"
+  },
+  "devDependencies": {
+    "release-it": "^14.10.0"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "bin": {
+    "@wantyapps/corona": "bin/corona",
+    "corona": "bin/corona"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantyapps/corona.js.git"
+  },
+  "keywords": [
+    "corona",
+    "covid",
+    "cli"
+  ],
+  "author": "Uri Arev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wantyapps/corona.js/issues"
+  },
+  "homepage": "https://github.com/wantyapps/corona.js#readme"
+}
