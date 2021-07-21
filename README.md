@@ -1,4 +1,4 @@
-# Corona.js
+# Corona.wanty
 
 Yet another corona CLI tool.
 
