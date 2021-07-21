@@ -1,5 +1,5 @@
 {
-  "name": "@wantyapps/corona.js",
+  "name": "corona.js",
   "version": "1.0.1",
   "description": "Yet another corona CLI tool.",
   "main": "corona.js",
