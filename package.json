@@ -1,5 +1,5 @@
 {
-  "name": "corona.js",
+  "name": "corona.wanty",
   "version": "1.0.1",
   "description": "Yet another corona CLI tool.",
   "main": "corona.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wantyapps/corona.js.git"
+    "url": "git+https://github.com/wantyapps/corona.wanty.git"
   },
   "keywords": [
     "corona",
@@ -34,7 +34,7 @@
   "author": "Uri Arev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wantyapps/corona.js/issues"
+    "url": "https://github.com/wantyapps/corona.wanty/issues"
   },
-  "homepage": "https://github.com/wantyapps/corona.js#readme"
+  "homepage": "https://github.com/wantyapps/corona.wanty#readme"
 }
