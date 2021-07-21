@@ -19,10 +19,10 @@ if ( cliOptions.country != '' ) {
   };
 
   axios.request(options).then(function (response) {
-      console.log(chalk.green('cases: ') + chalk.yellow(response.data.cases));
-      console.log(chalk.green("today's cases: ") + chalk.yellow(response.data.todayCases));
-      console.log(chalk.green('deaths: ') + chalk.yellow(response.data.deaths));
-      console.log(chalk.green("today's deaths: ") + chalk.yellow(response.data.todayDeaths));
+      console.log(chalk.green('Cases: ') + chalk.yellow(response.data.cases));
+      console.log(chalk.green("Today's cases: ") + chalk.yellow(response.data.todayCases));
+      console.log(chalk.green('Deaths: ') + chalk.yellow(response.data.deaths));
+      console.log(chalk.green("Today's deaths: ") + chalk.yellow(response.data.todayDeaths));
       console.log(chalk.green('Recovered: ') + chalk.yellow(response.data.recovered));
       console.log(chalk.green("Today's recovers: ") + chalk.yellow(response.data.todayRecovered));
       console.log(chalk.green('Active: ') + chalk.yellow(response.data.active));
