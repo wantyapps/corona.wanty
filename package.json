@@ -11,7 +11,7 @@
     "corona.wanty": "^1.0.3"
   },
   "devDependencies": {
-    "release-it": "^14.10.0"
+    "release-it": "^15.6.0"
   },
   "scripts": {
     "release": "release-it"
